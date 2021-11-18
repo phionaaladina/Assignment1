@@ -1,16 +1,16 @@
 # 1. variable
-x = 8
+x = 5
 y = 2
 print(x)
 print(y)
 
-print (x*y) # multiple of x and y
+print (x*y) # multiple of x and y. Output is 10.
 
-print(x**y) # exponential of x and y
+print(x**y) # exponential of x and y. X power y, output is 25.
 
-print(x/y) # division of x and y, 
+print(x/y) # division of x and y, output is 2.5, includes the decimal part.
 
-print(x//y) # floor division only, keeps the integer part
+print(x//y) # floor division only, output is 2. This gets rid of the decimal part and outputs only the integer part. 
 
 
 #2. a)code that prompts user's name
